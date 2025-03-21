@@ -44,7 +44,7 @@ python,pandas,numpy,tensorflow,keras,streamlit.
 
 ## Model 2
 
-## Model using CNN nad Transformer
+## Model using CNN and Transformer
 
 ## Dependencies
 •⁠  ⁠Python 3.x
