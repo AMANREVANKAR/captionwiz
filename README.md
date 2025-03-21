@@ -6,7 +6,7 @@ Image captioning is a challenging task in the field of computer vision and natur
 ## Model 1
 
 ## Technology used
-python,pandas,numpy,tensorflow,keras,streamlit.
+python,pandas,numpy,tensorflow,keras,streamlit
 
 
 ## Features
